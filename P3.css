@@ -1,0 +1,57 @@
+body, html {
+	background-color:#d8e9ff;
+	background-image: url("https://thesketchbookconcern.files.wordpress.com/2012/08/2012_08_23b.jpg");
+}
+
+a:link {
+	color:white;
+	text-decoration:none;
+}
+
+#navbar {
+	position:absolute;
+	left:0px;
+	right:0px;
+	border:1px double black;
+	height:40px;
+	background-color:#ccf3ff;
+	top:0px;
+	font-family: 'Lobster', cursive;
+	text-indent:35%;
+	font-size:50px;
+}
+
+#Header {
+	position:absolute;
+	left:0px;
+	right:0px;
+	border:1px solid black;
+	height:50px;
+	background-color:white;
+	top:0px;
+}
+
+#main {
+	Position:absolute;
+	left:150px;
+	right:150px;
+	border:1.5px double black;
+	height:500px;
+	background-color:white;
+	top:150px;
+	cursor:auto;
+	background-image: url("http://www.publicdomainpictures.net/pictures/190000/velka/kitten-lineart-drawing.jpg");
+}
+
+#H2 {
+	position:absolute;
+	left:30px;
+	right:30px;
+	border:1px solid black;
+	height:90px;
+	background-color:white;
+	top:40px;
+	font-family: 'Lobster', cursive;
+	font-size:89px;
+	text-indent:35%;
+}

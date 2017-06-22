@@ -1,0 +1,88 @@
+body, html {
+	background-color:#d8e9ff;
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/30/Scenery_sketch_Langweil.jpg");
+}
+
+a:link {
+	color:white;
+	text-decoration:none;
+}
+
+#navbar {
+	position:absolute;
+	left:0px;
+	right:0px;
+	border:1px double black;
+	height:40px;
+	background-color:#ccf3ff;
+	top:0px;
+	font-family: 'Lobster', cursive;
+	text-indent:35%;
+	font-size:50px;
+}
+
+#Header {
+	position:absolute;
+	left:0px;
+	right:0px;
+	border:1px solid black;
+	height:50px;
+	background-color:white;
+	top:0px;
+}
+
+#H2 {
+	position:absolute;
+	left:30px;
+	right:30px;
+	border:1px solid black;
+	height:90px;
+	background-color:white;
+	top:40px;
+	font-family: 'Lobster', cursive;
+	text-indent:25%;
+	font-size:89px;
+}
+
+#H3 {
+	position:absolute;
+	left:100px;
+	right:750px;
+	border:1px solid black;
+	height:350px;
+	top:170px;
+	background-color:#6caafc;
+	background-image: url("http://images6.fanpop.com/image/photos/39600000/Kaneki-Ken-tokyo-ghoul-39626532-357-500.jpg");
+}
+
+#H4 {
+	position:absolute;
+	left:750px;
+	right:100px;
+	border:1px solid black;
+	height:350px;
+	top:170px;
+	background-color:#6caafc;
+}
+
+#H5 {
+	position:absolute;
+	left:100px;
+	right:750px;
+	border:1px solid black;
+	height:100px;
+	top:550px;
+	background-color:white;
+}
+
+#H6 {
+	position:absolute;
+	left:750px;
+	right:100px;
+	border:1px solid black;
+	height:100px;
+	top:550px;
+	background-color:white;
+	background-image:"TG.jpg";
+}
+	

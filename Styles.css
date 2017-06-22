@@ -1,0 +1,97 @@
+body, html {
+	background-color:#d8e9ff;
+	background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/PencilSketching1.png/1280px-PencilSketching1.png");
+}
+
+a:link {
+	color:white;
+	text-decoration:none;
+}
+	
+#navbar {
+	position:absolute;
+	left:0px;
+	right:0px;
+	border:1px solid black;
+	height:40px;
+	background-color:#ccf3ff;
+	top:0px;
+	
+}
+
+#Header {
+	position:absolute;
+	left:30px;
+	right:30px;
+	border:1px solid black;
+	height:12px;
+	background-color:white;
+	top:40px;
+}
+
+#main {
+	position:absolute;
+	background-image: url("https://s-media-cache-ak0.pinimg.com/originals/b3/ef/44/b3ef441aa93e0026a0dd0e7f795b6130.jpg");
+	top:100px;
+	left:350px;
+	right:350px;
+	height:375px;
+	border:1px solid #6caafc;
+	background-color:#6caafc;
+}
+
+#H2 {
+	position:absolute;
+	font-family: 'Lobster', cursive;
+	font-size:100px;
+	right:1100px;
+	left:20px;
+	top:100px;
+	border:1px solid #6caafc;
+	height:400px;
+	background-color:#6caafc;
+}
+
+#H3 {
+	position:absolute;
+	font-family: 'Lobster', cursive;
+	font-size:110px;
+	right:20px;
+	left:1100px;
+	top:100px;
+	border:1px solid #6caafc;
+	height:400px;
+	background-color:#6caafc;
+}
+
+#H4 {
+	position:absolute;
+	font-family: 'Indie Flower', cursive;
+	right:350px;
+	left:350px;
+	top:488px;
+	border:1px solid black;
+	height:150px;
+	background-color:white;
+}
+
+#H5 {
+	position:absolute;
+	right:1100px;
+	left:20px;
+	top:512px;
+	border:1px solid black;
+	height:150px;
+	background-color:white;
+}
+
+#H6 {
+	position:absolute;
+	right:20px;
+	left:1100px;
+	top:512px;
+	border:1px solid black;
+	height:150px;
+	background-color:white;
+}
+	
